@@ -1,0 +1,12 @@
+.App{
+  margin:0 auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: lavender;
+  font-family: cursive;
+  cursor:pointer;
+  border-radius: 10px;
+  border: null;
+  
+
+}
